@@ -1,0 +1,15 @@
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Karpaty.Models.ViewModels
+{
+    public class RoleManagerVM
+    {
+        public IEnumerable<SelectListItem> RoleList { get; set; }
+        public AplicationUser AplicationUser { get; set; }
+    }
+}

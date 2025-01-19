@@ -1,0 +1,14 @@
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\bin\Debug\net8.0\Karpathy.Utility.deps.json
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\bin\Debug\net8.0\Karpathy.Utility.dll
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\bin\Debug\net8.0\Karpathy.Utility.pdb
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\obj\Debug\net8.0\Karpathy.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\obj\Debug\net8.0\Karpathy.Utility.AssemblyInfoInputs.cache
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\obj\Debug\net8.0\Karpathy.Utility.AssemblyInfo.cs
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\obj\Debug\net8.0\Karpathy.Utility.csproj.CoreCompileInputs.cache
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\obj\Debug\net8.0\Karpathy.Utility.dll
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\obj\Debug\net8.0\refint\Karpathy.Utility.dll
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\obj\Debug\net8.0\Karpathy.Utility.pdb
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\obj\Debug\net8.0\ref\Karpathy.Utility.dll
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\bin\Debug\net8.0\Karpathy.Utility.runtimeconfig.json
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\obj\Debug\net8.0\Karpathy.Utility.csproj.AssemblyReference.cache
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.Utility\obj\Debug\net8.0\Karpathy.Utility.genruntimeconfig.cache

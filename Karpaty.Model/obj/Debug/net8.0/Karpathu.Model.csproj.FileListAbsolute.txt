@@ -1,0 +1,11 @@
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\bin\Debug\net8.0\Karpathu.Model.deps.json
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\bin\Debug\net8.0\Karpathu.Model.dll
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\bin\Debug\net8.0\Karpathu.Model.pdb
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathu.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathu.Model.AssemblyInfoInputs.cache
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathu.Model.AssemblyInfo.cs
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathu.Model.csproj.CoreCompileInputs.cache
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathu.Model.dll
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\refint\Karpathu.Model.dll
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathu.Model.pdb
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\ref\Karpathu.Model.dll

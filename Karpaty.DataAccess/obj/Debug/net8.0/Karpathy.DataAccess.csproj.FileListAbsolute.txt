@@ -1,0 +1,5 @@
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.DataAccess\obj\Debug\net8.0\Karpathy.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.DataAccess\obj\Debug\net8.0\Karpathy.DataAccess.AssemblyInfoInputs.cache
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.DataAccess\obj\Debug\net8.0\Karpathy.DataAccess.AssemblyInfo.cs
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.DataAccess\obj\Debug\net8.0\Karpathy.DataAccess.csproj.CoreCompileInputs.cache
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathy.DataAccess\obj\Debug\net8.0\Karpathy.DataAccess.csproj.AssemblyReference.cache

@@ -1,0 +1,102 @@
+﻿@model List<Product>
+<div class="row pb-3">
+    @foreach (var product in Model)
+    {
+        <div class="col-lg-3 col-sm-6 d-flex">
+            <div class="row p-2 flex-fill">
+                <div class="col-12 p-1">
+                    <div class="card border-0 p-3 shadow border-top border-5 rounded d-flex flex-column h-100">
+                        @if (product.Images != null && product.Images.Count > 0)
+                        {
+                            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel" data-bs-interval="15000">
+                                <div class="carousel-indicators">
+                                    @foreach (var imageIndex in product.Images.Select((image, index) => new { ProductImage = image, Index = index }))
+                                    {
+                                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="@imageIndex.Index"
+                                                class="@(imageIndex.Index==0?"active":"")" aria-current="true" aria-label="Slide 1"></button>
+                                    }
+                                </div>
+                                <div class="carousel-inner">
+                                    @foreach (var imageIndex in product.Images.Select((image, index) => new { ProductImage = image, Index = index }))
+                                    {
+                                        <div class="@(imageIndex.Index==0?"carousel-item active":"carousel-item")">
+                                            <img src="@(imageIndex.ProductImage.ImageUrl)" class="d-block w-100" alt="...">
+                                        </div>
+                                    }
+                                </div>
+                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        }
+                        else
+                        {
+                            <img src="https://placehold.co/500x600/png" class="card-img-top rounded" />
+                        }
+
+                        <div class="card-body d-flex flex-column justify-content-between">
+                            <div>
+                                <p class="card-title h5 text-dark opacity-75 text-uppercase text-center">@product.Name</p>
+                                <div class="pl-1">
+                                    @if (product.Discount != 0)
+                                    {
+                                        <p class="text-dark text-opacity-75 text-center mb-0">
+                                            Price:
+                                            <span class="text-decoration-line-through">
+                                                @product.Price.ToString("c")
+                                            </span>
+                                        </p>
+                                    }
+                                    else
+                                    {
+                                        <p class="text-dark text-opacity-75 text-center">
+                                            Price:
+                                            <span>
+                                                @product.Price.ToString("c")
+                                            </span>
+                                        </p>
+                                    }
+                                </div>
+
+                                @if (product.Discount != 0)
+                                {
+                                    <div class="pl-1">
+                                        <p class="text-dark text-opacity-75 text-center">
+                                            As low as:
+                                            <span>
+                                                @{
+                                                    double finalPrice = product.Price - (product.Discount * product.Price / 100);
+                                                }
+                                                @finalPrice.ToString("c")
+                                            </span>
+                                        </p>
+                                    </div>
+                                }
+                            </div>
+                            <div>
+                                <a asp-action="Details"
+                                   asp-route-productId="@product.Id"
+                                   class="btn btn-primary bg-gradient border-0 form-control mt-auto">
+                                    Details
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+
+@section Scripts {
+    <script src="~/js/product.js"></script>
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

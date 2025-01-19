@@ -1,0 +1,14 @@
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\bin\Debug\net8.0\Karpathy.Models.deps.json
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\bin\Debug\net8.0\Karpathy.Models.runtimeconfig.json
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\bin\Debug\net8.0\Karpathy.Models.dll
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\bin\Debug\net8.0\Karpathy.Models.pdb
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathy.Models.csproj.AssemblyReference.cache
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathy.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathy.Models.AssemblyInfoInputs.cache
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathy.Models.AssemblyInfo.cs
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathy.Models.csproj.CoreCompileInputs.cache
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathy.Models.dll
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\refint\Karpathy.Models.dll
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathy.Models.pdb
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\Karpathy.Models.genruntimeconfig.cache
+D:\C#\.net\NeverGiveUp\KarpatyLviv\Karpathu.Model\obj\Debug\net8.0\ref\Karpathy.Models.dll

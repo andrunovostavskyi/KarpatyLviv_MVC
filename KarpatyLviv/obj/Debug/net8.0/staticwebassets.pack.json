@@ -1,0 +1,349 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KarpatyLviv.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KarpatyLviv.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-0\\2907ac83-75e9-4d6b-8400-8aa78e1e3494.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-0\\2907ac83-75e9-4d6b-8400-8aa78e1e3494.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-0\\483ef436-444e-45ac-821d-798e52d746de.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-0\\483ef436-444e-45ac-821d-798e52d746de.png"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-0\\65ce2a3c-4c62-433f-bd7b-f9d56a1e45d6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-0\\65ce2a3c-4c62-433f-bd7b-f9d56a1e45d6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-10\\16896cdf-83b8-42f9-80e3-cb6c35e84233.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-10\\16896cdf-83b8-42f9-80e3-cb6c35e84233.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-15\\44009402-5e69-4727-954e-4528b2f007e4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-15\\44009402-5e69-4727-954e-4528b2f007e4.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-1\\5721436d-12c7-47b3-9fe4-d86b202cb2bd.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\5721436d-12c7-47b3-9fe4-d86b202cb2bd.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-1\\b887adc4-fed2-4dbe-8ff3-8d159956df0d.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-1\\b887adc4-fed2-4dbe-8ff3-8d159956df0d.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-2\\a80878ab-f47c-4591-8e69-c4bb31e28489.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\a80878ab-f47c-4591-8e69-c4bb31e28489.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-2\\e6e46f13-79e1-4a9e-9c32-64d00b4dd71a.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-2\\e6e46f13-79e1-4a9e-9c32-64d00b4dd71a.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-3\\5ea2025a-534f-4ca6-9ad9-fbb54879a381.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-3\\5ea2025a-534f-4ca6-9ad9-fbb54879a381.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-4\\820a956d-500d-4c90-bb09-5f43c9c87339.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\820a956d-500d-4c90-bb09-5f43c9c87339.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-4\\ab704d4d-bd27-45cb-b245-e5cae05bba1a.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-4\\ab704d4d-bd27-45cb-b245-e5cae05bba1a.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-5\\3ffc3745-2398-473c-8b25-d50d684e59c9.png",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\3ffc3745-2398-473c-8b25-d50d684e59c9.png"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-5\\a9ba7d3c-9d3a-485a-81f2-0d264b8eeaa6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-5\\a9ba7d3c-9d3a-485a-81f2-0d264b8eeaa6.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-8\\90da177b-e659-42a3-9e48-a8ff6f5f349e.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\product-8\\90da177b-e659-42a3-9e48-a8ff6f5f349e.jpg"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\products\\product-8\\c721ba2c-da28-4932-adf1-6423539582e3.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\product-8\\c721ba2c-da28-4932-adf1-6423539582e3.jfif"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\images\\success.png",
+      "PackagePath": "staticwebassets\\images\\success.png"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\js\\category.js",
+      "PackagePath": "staticwebassets\\js\\category.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\C#\\.net\\NeverGiveUp\\KarpatyLviv\\KarpatyLviv\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KarpatyLviv.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KarpatyLviv.props",
+      "PackagePath": "build\\KarpatyLviv.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KarpatyLviv.props",
+      "PackagePath": "buildMultiTargeting\\KarpatyLviv.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KarpatyLviv.props",
+      "PackagePath": "buildTransitive\\KarpatyLviv.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
