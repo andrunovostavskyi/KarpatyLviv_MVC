@@ -37,13 +37,13 @@ This is a fan shop website for FC Karpaty Lviv. It allows users to browse and pu
 
 ### User View
 
-`![Home Page](Screenshots/User_HomePage.png)`  _Home page for general users._
+![Home Page](Screenshots/User_HomePage.png)  _Home page for general users._
 
-`![Checkout Page](Screenshots/ShoppingCard.png)`  _Checkout page with_ `_Stripe_` _payment integration._
+![Checkout Page](Screenshots/ShoppingCard.png)  _Checkout page with_ `_Stripe_` _payment integration._
 
 ### Admin Panel
 
-`![Admin Dashboard](Screenshots/Admin_HomePage.png)`  _Admin dashboard for managing the shop._
+![Admin Dashboard](Screenshots/Admin_HomePage.png`  _Admin dashboard for managing the shop._
 
 ----------
 
