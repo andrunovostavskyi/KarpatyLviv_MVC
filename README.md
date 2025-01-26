@@ -43,7 +43,7 @@ This is a fan shop website for FC Karpaty Lviv. It allows users to browse and pu
 
 ### Admin Panel
 
-![Admin Dashboard](Screenshots/Admin_HomePage.png`  _Admin dashboard for managing the shop._
+![Admin Dashboard](Screenshots/Admin_HomePage.png)  _Admin dashboard for managing the shop._
 
 ----------
 
